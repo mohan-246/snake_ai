@@ -47,10 +47,6 @@ Contributions are welcome! If you have improvements or new features to suggest, 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-- Special thanks to [Your Name] for the inspiration and guidance.
-
 Happy coding and gaming!
 
 ---
