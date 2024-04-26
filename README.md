@@ -43,10 +43,6 @@ Use arrow keys to control the snake and have fun!
 
 Contributions are welcome! If you have improvements or new features to suggest, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Happy coding and gaming!
 
 ---
